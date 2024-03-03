@@ -29,7 +29,7 @@ setup(
     install_requires=[
         "platformdirs",
         "selenium",
-        "webdriver-manager",
+        "undetected-chromedriver",
     ],
     include_package_data=False,
     python_requires=">=3.6",
